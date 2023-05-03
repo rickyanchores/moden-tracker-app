@@ -1,0 +1,59 @@
+.App {
+  background: #333;
+  text-align: center;
+  border-radius: 12px;
+}
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+}
+
+/* Form */
+.inputField {
+  border: none;
+  padding: 1em;
+  padding: 1em;
+}
+.addTodo {
+  background: yellowgreen;
+  border: none;
+  padding: 1em;
+}
+.submit:hover {
+  color: whitesmoke;
+  cursor: pointer;
+}
+/* TodoList */
+.TodoList {
+  list-style: none;
+}
+/* Todo */
+.todo-item {
+  list-style: none;
+  background: black;
+  padding: 1em;
+  margin: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Todo {
+  list-style: none;
+}
+.list {
+  padding: 1em;
+}
+.check {
+  background: yellowgreen;
+  border: none;
+  padding: 1em;
+  color: white;
+  font-weight: bolder;
+}
+
+/* Footer */
+
+.footer {
+  padding: 1em;
+}
