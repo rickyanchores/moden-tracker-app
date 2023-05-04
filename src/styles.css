@@ -14,13 +14,16 @@ body {
   border: none;
   padding: 1em;
   padding: 1em;
+  border-radius: 8px;
 }
 .addTodo {
   background: yellowgreen;
   border: none;
   padding: 1em;
+  margin-left: 1em;
+  border-radius: 8px;
 }
-.submit:hover {
+.addTodo:hover {
   color: whitesmoke;
   cursor: pointer;
 }
@@ -37,6 +40,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-radius: 8px;
 }
 .Todo {
   list-style: none;
@@ -50,6 +54,7 @@ body {
   padding: 1em;
   color: white;
   font-weight: bolder;
+  cursor: pointer;
 }
 
 /* Footer */
