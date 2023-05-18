@@ -9,7 +9,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Tracker</h1>
+      <h1>modern tracker</h1>
       <Form
         input={input}
         setInput={setInput}
