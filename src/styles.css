@@ -9,17 +9,13 @@ body {
   color: white;
   font-family: monospace;
 }
-
 /* Form */
 .inputField {
   border: none;
   padding: 1em;
   padding: 1em;
-<<<<<<< HEAD
   background: rgb(211, 235, 165);
-=======
   border-radius: 8px;
->>>>>>> eb76658f061a0a8c743a05bf0cfc027e06a1ab04
 }
 .addTodo {
   background: yellowgreen;
